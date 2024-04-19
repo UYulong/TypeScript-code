@@ -1,0 +1,1 @@
+const divEle: HTMLDivElement = document.createElement('div')
